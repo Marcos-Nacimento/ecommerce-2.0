@@ -5,6 +5,8 @@ Suas compra de casa e em seguida envia a lista das compras para o atendente via 
 
 Este projeto usa [Expo](https://expo.io/).
 
+<img src="https://user-images.githubusercontent.com/62677231/121031031-6211b100-c780-11eb-8265-122d7662340d.jpg" width="300" height="500">
+
 # 🖥 Tecnologias 🖥
 
 - redux
