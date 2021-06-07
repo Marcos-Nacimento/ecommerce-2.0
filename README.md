@@ -7,6 +7,7 @@ Este projeto usa [Expo](https://expo.io/).
 
 <img src="https://user-images.githubusercontent.com/62677231/121031031-6211b100-c780-11eb-8265-122d7662340d.jpg" width="300" height="500"> <img src="https://user-images.githubusercontent.com/62677231/121031448-b7e65900-c780-11eb-87b8-630cc323c136.jpg" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/62677231/121031567-d8161800-c780-11eb-9f04-2f5c49f0915e.jpg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/62677231/118855923-b7a71c00-b8ac-11eb-928b-edf65c460007.jpg" width="300" height="500">
 
 # 🖥 Tecnologias 🖥
 
